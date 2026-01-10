@@ -8,4 +8,4 @@ Demonstrations include Python, GNU Octave but even bash communication with
 ```
 $ xmlrpc localhost:8080 set_freq i/200
 ```
-<ing src="Screenshot_2023-05-28_11-26-10.png">
+<img src="Screenshot_2023-05-28_11-26-10.png">
