@@ -2,3 +2,5 @@
 
 In these examples, rather than streaming scalar values, we consider byte arrays
 (strings) or vectors of values.
+
+<img src="2026-03-22-124857_2704x1050_scrot.png">
